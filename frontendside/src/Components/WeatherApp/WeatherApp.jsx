@@ -83,6 +83,11 @@ const WeatherApp = () => {
                     </div>
                 </div>
                 <div className="element">
+                    <a href='#'>
+                        <button className='btn btn-success display-3'><strong>Comment</strong></button>
+                    </a>
+                </div>
+                <div className="element">
                     <img src={wind_icon} alt="" className='icon' />
                     <div className="data">
                         <div className="wind-rate">0.68 km/h</div>

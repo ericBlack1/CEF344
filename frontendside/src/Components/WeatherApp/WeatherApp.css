@@ -97,3 +97,9 @@
 .wind-rate {
     font-weight: bold;
 }
+
+.btn {
+    width: 250px;
+    height: 50px;
+    font-size: 1.5rem !important;
+}
